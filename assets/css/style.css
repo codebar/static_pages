@@ -1,0 +1,48 @@
+#main {
+  text-align: center;
+  width: 80%;
+  min-width: 680px;
+  margin: 0 auto;
+}
+#message {
+  background-color: #f5f6f7;
+  padding: 80px 0;
+  border-radius: 4px;
+  margin-top: -100px;
+}
+#animated-logo {
+  border-radius: 50%;
+  border: 2px solid #f5f6f7;
+}
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px;
+}
+h1 {
+  color: #652f93;
+  font-size: 2em;
+}
+a {
+  color: #652f93;
+}
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative;
+}
